@@ -4,6 +4,12 @@
 
 ---
 
+Compatible versions:
+- Node 14.19.3
+- Npm 6.14.17
+
+---
+
 <div align="center">
   <a href="https://dmtrbrl.github.io/vue-trend-chart/">Live Demo</a>
 </div>
