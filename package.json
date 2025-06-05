@@ -32,11 +32,11 @@
   },
   "homepage": "https://dmtrbrl.github.io/vue-trend-chart/",
   "peerDependencies": {
-    "axios": "^1.6.8",
+    "axios": "^0.26.0",
     "moment": "^2.29.0",
     "popper.js": "^1.14.7",
     "vue": "^2.6.14",
-    "vue-axios": "^3.5.2"
+    "vue-axios": "^3.4.1"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0",
