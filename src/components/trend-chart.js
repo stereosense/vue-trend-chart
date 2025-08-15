@@ -216,7 +216,7 @@ export default {
     this.init();
     window.addEventListener("resize", this.onWindowResize);
   },
-  destroyed() {
+  unmounted() {
     window.removeEventListener("resize", this.onWindowResize);
   },
   render() {
